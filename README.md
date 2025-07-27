@@ -45,6 +45,22 @@ I’m familiar with various online tools and browser extensions and have a perso
 
 ---
 
+## 🖥️ Tested Operating System ISOs
+
+### 🪟 Windows  
+- Windows 10  
+- Windows 11  
+
+### 🐧 Linux  
+- Ubuntu 24.04 LTS  
+- Zorin OS  
+- Kali Linux  
+- antiX Linux  
+- Puppy Linux  
+- Tiny Core Linux  
+
+---
+
 ## 🎯 Interests & Projects
 
 - 🧠 **AI Tools:** ChatGPT, Gamma, Suno, Runway, Pika  
