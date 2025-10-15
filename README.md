@@ -71,12 +71,10 @@ I’m familiar with various online tools and browser extensions and have a perso
 - 🌐 **Online tools & extensions:** advanced use for work optimization and creativity
 
 ---
-
 ## 🔗 Contact
 
-- 📧 Primary Email: [finimus7@gmail.com](mailto:finimus7@gmail.com)  
-- 📧 Alternative Email: [fineasturcu30@outlook.com](mailto:fineasturcu30@outlook.com)  
-- 🌐 Personal Website: [finimus.my.canva.site](https://finimus.my.canva.site/)  
-- 🔗 LinkedIn: [linkedin.com/fineas-turcu](https://www.linkedin.com/in/fineas-turcu-047a51333/?originalSubdomain=ro)  
+- 📝 **Contact Form:** [Submit a message here](https://docs.google.com/forms/d/e/1FAIpQLScTVZnfxh5zKnps91A_02shSkZhTl8uWUhkjfFSEDl_67W2Uw/viewform?usp=header)  
+- 🌐 **Personal Website:** [finimus.my.canva.site](https://finimus.my.canva.site/)  
+- 🔗 **LinkedIn:** [linkedin.com/in/fineas-turcu](https://www.linkedin.com/in/fineas-turcu-047a51333/?originalSubdomain=ro)  
 
 > “I am motivated by curiosity, innovation, and the desire to build things that truly matter.”
