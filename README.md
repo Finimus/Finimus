@@ -48,6 +48,10 @@ I’m familiar with various online tools and browser extensions and have a perso
 ## 🖥️ Tested Operating System ISOs
 
 ### 🪟 Windows  
+- Windows Xp
+- Windows Vista
+- Windows 7
+- Windows 8.1
 - Windows 10  
 - Windows 11  
 
@@ -58,6 +62,7 @@ I’m familiar with various online tools and browser extensions and have a perso
 - antiX Linux  
 - Puppy Linux  
 - Tiny Core Linux  
+- Arch
 
 ---
 
